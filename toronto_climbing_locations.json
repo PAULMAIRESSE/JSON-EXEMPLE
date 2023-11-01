@@ -14,7 +14,7 @@
                 "saturday": "10:00 AM - 08:00 PM",
                 "sunday": "10:00 AM - 06:00 PM"
             },
-            "image_url": "https://website/images/rock_on_climbing.jpg"
+            "image_url": "https://paulmairesse.github.io/JSON-EXEMPLE/images/rock_on_climbing.jpg"
         },
         "Basecamp Climbing Queen West": {
             "name": "Basecamp Climbing Queen West",
@@ -30,7 +30,7 @@
                 "saturday": "10:00 AM - 10:00 PM",
                 "sunday": "10:00 AM - 10:00 PM"
             },
-            "image_url": "https://website/images/basecamp_climbing_queen_west.jpg"
+            "image_url": "https://paulmairesse.github.io/JSON-EXEMPLE/images/basecamp_climbing_queen_west.jpg"
         },
         "Boulderz Climbing Centre": {
             "name": "Boulderz Climbing Centre",
@@ -46,7 +46,7 @@
                 "saturday": "09:00 AM - 09:00 PM",
                 "sunday": "09:00 AM - 09:00 PM"
             },
-            "image_url": "https://website/images/boulderz_climbing_centre.jpg"
+            "image_url": "https://paulmairesse.github.io/JSON-EXEMPLE/images/boulderz_climbing_centre.jpg"
         },
         "Toronto Climbing Academy": {
             "name": "Toronto Climbing Academy",
@@ -62,7 +62,7 @@
                 "saturday": "10:00 AM - 09:00 PM",
                 "sunday": "10:00 AM - 09:00 PM"
             },
-            "image_url": "https://website/images/toronto_climbing_academy.jpg"
+            "image_url": "https://paulmairesse.github.io/JSON-EXEMPLE/images/toronto_climbing_academy.jpg"
         },
         "True North Climbing": {
             "name": "True North Climbing",
@@ -78,7 +78,7 @@
                 "saturday": "10:00 AM - 10:00 PM",
                 "sunday": "10:00 AM - 10:00 PM"
             },
-            "image_url": "https://website/images/true_north_climbing.jpg"
+            "image_url": "https://paulmairesse.github.io/JSON-EXEMPLE/images/true_north_climbing.jpg"
         },
         "Up The Bloc": {
             "name": "Up The Bloc",
@@ -94,7 +94,7 @@
                 "saturday": "09:00 AM - 09:00 PM",
                 "sunday": "09:00 AM - 09:00 PM"
             },
-            "image_url": "https://website/images/up_the_bloc.jpg"
+            "image_url": "https://paulmairesse.github.io/JSON-EXEMPLE//images/up_the_bloc.jpg"
         }
     }
 }
