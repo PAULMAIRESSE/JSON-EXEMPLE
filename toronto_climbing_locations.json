@@ -1,6 +1,6 @@
 {
-    "locations": {
-        "rock_on_climbing": {
+    "locations": [
+        {
             "name": "Rock On Climbing",
             "address": "474 Front St E Unit 4, Toronto, ON M5A 0E6, Canada",
             "phone": "+1 647-217-9461",
@@ -16,7 +16,7 @@
             },
             "image_url": "https://paulmairesse.github.io/JSON-EXEMPLE/images/rock_on_climbing.jpg"
         },
-        "Basecamp Climbing Queen West": {
+        {
             "name": "Basecamp Climbing Queen West",
             "address": "186 Spadina Ave. Unit 1A, Toronto, ON M5T 3B2, Canada",
             "phone": "+1 416-546-3941",
@@ -32,7 +32,7 @@
             },
             "image_url": "https://paulmairesse.github.io/JSON-EXEMPLE/images/basecamp_climbing_queen_west.jpg"
         },
-        "Boulderz Climbing Centre": {
+        {
             "name": "Boulderz Climbing Centre",
             "address": "1444 Dupont St, Toronto, ON M6P 4H3, Canada",
             "phone": "+1 416-516-6666",
@@ -48,7 +48,7 @@
             },
             "image_url": "https://paulmairesse.github.io/JSON-EXEMPLE/images/boulderz_climbing_centre.jpg"
         },
-        "Toronto Climbing Academy": {
+        {
             "name": "Toronto Climbing Academy",
             "address": "11 Curity Ave, East York, ON M4B 1X4, Canada",
             "phone": "+1 416-406-5900",
@@ -64,7 +64,7 @@
             },
             "image_url": "https://paulmairesse.github.io/JSON-EXEMPLE/images/toronto_climbing_academy.jpg"
         },
-        "True North Climbing": {
+        {
             "name": "True North Climbing",
             "address": "75 Carl Hall Rd #14, North York, ON M3K 2B9, Canada",
             "phone": "+1 416-398-7625",
@@ -80,7 +80,7 @@
             },
             "image_url": "https://paulmairesse.github.io/JSON-EXEMPLE/images/true_north_climbing.jpg"
         },
-        "Up The Bloc": {
+        {
             "name": "Up The Bloc",
             "address": "1224 Dundas St E #28, Mississauga, ON L4Y 4A2, Canada",
             "phone": "+1 905-272-2562",
@@ -96,5 +96,5 @@
             },
             "image_url": "https://paulmairesse.github.io/JSON-EXEMPLE//images/up_the_bloc.jpg"
         }
-    }
+    ]
 }
